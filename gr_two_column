@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-07T11:31:16.807Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="hBrT2-Hl5tPze63mydXr" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-07T11:35:18.212Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="JEW-HkkQkyBIjJ73u-0-" version="20.4.0" type="github">
   <diagram id="I2OrYo_9oVTTXD8UfmND" name="第 1 页">
     <mxGraphModel dx="1738" dy="-703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -561,6 +561,12 @@
         </mxCell>
         <mxCell id="zWNaaT4zoU94L3U2hif0-5" value="Embedding Matrix" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontColor=#000000;fontFamily=Times New Roman;spacingTop=-10;spacingBottom=-10;" vertex="1" parent="1">
           <mxGeometry x="-831" y="1178" width="110" as="geometry" />
+        </mxCell>
+        <mxCell id="zWNaaT4zoU94L3U2hif0-90" value="(a)&amp;nbsp; Generation Procedure" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;strokeColor=none;spacingBottom=-10;spacing=-10;spacingTop=-10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="1442" width="125" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="zWNaaT4zoU94L3U2hif0-91" value="(b)&amp;nbsp; Reranking Procedure" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;strokeColor=none;spacingBottom=-10;spacing=-10;spacingTop=-10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-392.5" y="1442" width="125" height="12" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
