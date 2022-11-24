@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-24T17:14:46.547Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="qloiGpCcAaZpSD_TWUWn" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-24T17:15:45.708Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="VnyvEqhyQ55RQFPcgvRu" version="20.6.0" type="github">
   <diagram id="lsAFUenbECW9f_91PKfk" name="第 1 页">
     <mxGraphModel dx="913" dy="586" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -244,7 +244,7 @@
         <mxCell id="1TowzROcwr83Bk-lsmrv-202" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#808080;fontSize=1;fontColor=#999999;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Times New Roman;" parent="1TowzROcwr83Bk-lsmrv-164" source="1TowzROcwr83Bk-lsmrv-185" target="1TowzROcwr83Bk-lsmrv-196" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1TowzROcwr83Bk-lsmrv-203" value="&lt;b&gt;英文-中文生医翻译模型&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=80;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="1TowzROcwr83Bk-lsmrv-203" value="&lt;b&gt;英文-中文生医交互式翻译模型&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=80;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="426" y="258" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1TowzROcwr83Bk-lsmrv-245" value="" style="group" parent="1" vertex="1" connectable="0">
@@ -373,7 +373,7 @@
         <mxCell id="1TowzROcwr83Bk-lsmrv-120" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#808080;fontSize=1;fontColor=#999999;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Times New Roman;" parent="1TowzROcwr83Bk-lsmrv-121" source="1TowzROcwr83Bk-lsmrv-103" target="1TowzROcwr83Bk-lsmrv-114" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1TowzROcwr83Bk-lsmrv-76" value="&lt;b&gt;英文-中文生医翻译模型&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;opacity=80;strokeWidth=2;" parent="1TowzROcwr83Bk-lsmrv-245" vertex="1">
+        <mxCell id="1TowzROcwr83Bk-lsmrv-76" value="&lt;b&gt;英文-中文生医交互式翻译模型&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;opacity=80;strokeWidth=2;" parent="1TowzROcwr83Bk-lsmrv-245" vertex="1">
           <mxGeometry width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1TowzROcwr83Bk-lsmrv-246" value="" style="group" parent="1" vertex="1" connectable="0">
@@ -502,7 +502,7 @@
         <mxCell id="1TowzROcwr83Bk-lsmrv-160" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#808080;fontSize=1;fontColor=#999999;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Times New Roman;" parent="1TowzROcwr83Bk-lsmrv-122" source="1TowzROcwr83Bk-lsmrv-143" target="1TowzROcwr83Bk-lsmrv-154" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1TowzROcwr83Bk-lsmrv-161" value="&lt;b&gt;英文-中文生医翻译模型&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=80;strokeWidth=2;" parent="1TowzROcwr83Bk-lsmrv-246" vertex="1">
+        <mxCell id="1TowzROcwr83Bk-lsmrv-161" value="&lt;b&gt;英文-中文生医交互式翻译模型&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=80;strokeWidth=2;" parent="1TowzROcwr83Bk-lsmrv-246" vertex="1">
           <mxGeometry width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1TowzROcwr83Bk-lsmrv-247" value="" style="group" parent="1" vertex="1" connectable="0">
@@ -631,7 +631,7 @@
         <mxCell id="1TowzROcwr83Bk-lsmrv-242" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#808080;fontSize=1;fontColor=#999999;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Times New Roman;" parent="1TowzROcwr83Bk-lsmrv-204" source="1TowzROcwr83Bk-lsmrv-225" target="1TowzROcwr83Bk-lsmrv-236" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1TowzROcwr83Bk-lsmrv-243" value="&lt;b&gt;英文-中文生医翻译模型&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;opacity=80;strokeWidth=2;" parent="1TowzROcwr83Bk-lsmrv-247" vertex="1">
+        <mxCell id="1TowzROcwr83Bk-lsmrv-243" value="&lt;b&gt;英文-中文生医交互式翻译模型&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;opacity=80;strokeWidth=2;" parent="1TowzROcwr83Bk-lsmrv-247" vertex="1">
           <mxGeometry width="252.00000000000006" height="121.73999999999998" as="geometry" />
         </mxCell>
         <mxCell id="1TowzROcwr83Bk-lsmrv-248" value="Teacher-Forcing&lt;br&gt;策略" style="whiteSpace=wrap;html=1;shadow=0;sketch=1;fillStyle=auto;strokeColor=#0e8088;strokeWidth=2;opacity=80;fillColor=#b0e3e6;" parent="1" vertex="1">
